@@ -1,0 +1,90 @@
+[
+  {
+    "accessed_time": 1738670022,
+    "created_time": null,
+    "exif_data": null,
+    "file_extension": "",
+    "file_name": ".gitignore",
+    "file_size": 814,
+    "mime_type": "application/octet-stream",
+    "modified_time": 1738664589,
+    "path": "/mnt/c/users/floris/documents/github/file0/.gitignore"
+  },
+  {
+    "accessed_time": 1738670020,
+    "created_time": null,
+    "exif_data": null,
+    "file_extension": "lock",
+    "file_name": "Cargo.lock",
+    "file_size": 4794,
+    "mime_type": "application/octet-stream",
+    "modified_time": 1738665259,
+    "path": "/mnt/c/users/floris/documents/github/file0/Cargo.lock"
+  },
+  {
+    "accessed_time": 1738670020,
+    "created_time": null,
+    "exif_data": null,
+    "file_extension": "toml",
+    "file_name": "Cargo.toml",
+    "file_size": 138,
+    "mime_type": "text/x-toml",
+    "modified_time": 1738665259,
+    "path": "/mnt/c/users/floris/documents/github/file0/Cargo.toml"
+  },
+  {
+    "accessed_time": 1738669840,
+    "created_time": null,
+    "exif_data": {},
+    "file_extension": "jpg",
+    "file_name": "d57b646003fd84f63ffaf077d0d8991c.19.jpg",
+    "file_size": 68602,
+    "mime_type": "image/jpeg",
+    "modified_time": 1738667427,
+    "path": "/mnt/c/users/floris/documents/github/file0/d57b646003fd84f63ffaf077d0d8991c.19.jpg"
+  },
+  {
+    "accessed_time": 1738669460,
+    "created_time": null,
+    "exif_data": null,
+    "file_extension": "yaml",
+    "file_name": "deps.yaml",
+    "file_size": 84,
+    "mime_type": "text/x-yaml",
+    "modified_time": 1738664894,
+    "path": "/mnt/c/users/floris/documents/github/file0/deps.yaml"
+  },
+  {
+    "accessed_time": 1738669844,
+    "created_time": null,
+    "exif_data": null,
+    "file_extension": "json",
+    "file_name": "file_data.json",
+    "file_size": 2556,
+    "mime_type": "application/json",
+    "modified_time": 1738669844,
+    "path": "/mnt/c/users/floris/documents/github/file0/file_data.json"
+  },
+  {
+    "accessed_time": 1738669460,
+    "created_time": null,
+    "exif_data": null,
+    "file_extension": "md",
+    "file_name": "README.md",
+    "file_size": 54,
+    "mime_type": "text/markdown",
+    "modified_time": 1738664589,
+    "path": "/mnt/c/users/floris/documents/github/file0/README.md"
+  },
+  {
+    "accessed_time": 1738669460,
+    "created_time": null,
+    "exif_data": null,
+    "file_extension": "sh",
+    "file_name": "setup_linux.sh",
+    "file_size": 614,
+    "mime_type": "application/x-sh",
+    "modified_time": 1738666414,
+    "path": "/mnt/c/users/floris/documents/github/file0/setup_linux.sh"
+  }
+]
